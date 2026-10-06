@@ -1,3 +1,10 @@
+## Author
+
+**Suleiman Abbey Bello**  
+Registration number: C11/26/FCDF/17136
+ICDFA Trainee, Cohort 11  
+Fellowship in Cybersecurity and Digital Forensics
+
 # Lab 2 – OPNsense Policy, Logging and Packet Analysis
 
 This laboratory covers firewall policy configuration, traffic logging,
